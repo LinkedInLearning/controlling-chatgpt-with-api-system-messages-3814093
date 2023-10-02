@@ -1,7 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
-
-![course-name-alt-text][lil-thumbnail-url] 
+# Controlling ChatGPT with Custom Instructions or API System Messages
+This is the repository for the LinkedIn Learning course `Controlling ChatGPT with Custom Instructions or API System Messages`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
