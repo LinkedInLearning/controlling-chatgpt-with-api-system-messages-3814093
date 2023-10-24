@@ -1,6 +1,10 @@
 # Controlling ChatGPT with Custom Instructions or API System Messages
 This is the repository for the LinkedIn Learning course `Controlling ChatGPT with Custom Instructions or API System Messages`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![Controlling ChatGPT with Custom Instructions or API System Messages][lil-thumbnail-url] 
+
+Custom Instructions in ChatGPT allow you to provide additional context and even format the type of response you want from the system every time you interact with it. In the OpenAI Chat Completions API you can access the same functionality using the System and Assistant messages. In this short course, learn how to take advantage of these features to get more consistent and customizable responses from both systems.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has no branches. Each example featured in the course is contained in a separate file, named for the specific example. To follow along, open the relevant file and follow the instructions in the course.
@@ -19,5 +23,5 @@ To run the queries in the example files, you need an OpenAI API key.
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHNB5iQOLKVZg/learning-public-crop_675_1200/0/1697831317907?e=2147483647&v=beta&t=quPDbS5456Kc3PFsKJhqeSDb88ucD6seeprYDxi6vqw
 
